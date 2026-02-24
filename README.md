@@ -25,3 +25,15 @@ Floater seat booking uses database transactions with row-level locking (FOR UPDA
 
 -**Database-Level Constraints for Safety**
 Unique constraints, foreign keys, and checks ensure one seat per user per day and prevent invalid or duplicate assignments, adding an additional protection layer beyond API validation.
+
+##**Workflow**
+<img width="1872" height="891" alt="image" src="https://github.com/user-attachments/assets/885b1b0f-4d0e-49d4-8409-c00c1df738d3" />
+<img width="1876" height="801" alt="image" src="https://github.com/user-attachments/assets/fcac48c6-0a79-4bc3-ab89-35d71e188341" />
+<img width="1775" height="778" alt="image" src="https://github.com/user-attachments/assets/510a4fc7-23fd-4b9f-98e8-463865415a34" />
+<img width="1884" height="678" alt="image" src="https://github.com/user-attachments/assets/423abb69-cda0-4a0a-b450-32dfc91237fd" />
+<img width="1881" height="726" alt="image" src="https://github.com/user-attachments/assets/1011d197-de2a-4a66-8816-f7ee22f241d7" />
+<img width="1884" height="837" alt="image" src="https://github.com/user-attachments/assets/4b46dd8f-e79f-4d07-9a8a-61b87ddabc64" />
+<img width="1903" height="878" alt="image" src="https://github.com/user-attachments/assets/c18738da-77e8-4423-b93f-a4d73815c46d" />
+<img width="688" height="673" alt="image" src="https://github.com/user-attachments/assets/bf0c427e-9cb5-4720-96f7-5270ab887b43" />
+
+
