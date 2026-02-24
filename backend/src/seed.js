@@ -65,9 +65,9 @@ async function seed() {
   }
   console.log('✅ Created 10 teams');
 
-  // 3. Create seats (40 designated in Zone A, 10 floater in Zone B)
+  // 3. Create seats (80 designated in Zone A, 10 floater in Zone B)
   const seatIds = [];
-  for (let i = 1; i <= 40; i++) {
+  for (let i = 1; i <= 80; i++) {
     const res = await db.query(
       `INSERT INTO seats (seat_number, type, zone) VALUES ($1, 'designated', 'A') RETURNING id`,
       [`A${i}`]
@@ -80,7 +80,7 @@ async function seed() {
       [`F${i}`]
     );
   }
-  console.log('✅ Created 50 seats (40 designated + 10 floater)');
+  console.log('✅ Created 90 seats (80 designated + 10 floater)');
 
   // 4. Create admin
   const adminHash = await bcrypt.hash('admin123', 10);
