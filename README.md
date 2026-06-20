@@ -38,13 +38,25 @@ It’s optimized for developer productivity: less hunting, faster onboarding, an
 
 ---
 
-## Screenshots
+## Screenshots (from original README)
 
-Below are example screenshots. Replace these placeholder images with real screenshots from the app (same paths) to make the README more compelling.
+Below are the original visuals included in the project README. I used the same image URLs from the original README so they render exactly as before.
 
-![Main view — snippets list](assets/screenshots/screenshot-1.svg)
+![Workflow — 1](https://github.com/user-attachments/assets/885b1b0f-4d0e-49d4-8409-c00c1df738d3)
 
-![Onboarding checklists](assets/screenshots/screenshot-2.svg)
+![Workflow — 2](https://github.com/user-attachments/assets/fcac48c6-0a79-4bc3-ab89-35d71e188341)
+
+![Workflow — 3](https://github.com/user-attachments/assets/510a4fc7-23fd-4b9f-98e8-463865415a34)
+
+![Workflow — 4](https://github.com/user-attachments/assets/423abb69-cda0-4a0a-b450-32dfc91237fd)
+
+![Workflow — 5](https://github.com/user-attachments/assets/1011d197-de2a-4a66-8816-f7ee22f241d7)
+
+![Workflow — 6](https://github.com/user-attachments/assets/4b46dd8f-e79f-4d07-9a8a-61b87ddabc64)
+
+![Workflow — 7](https://github.com/user-attachments/assets/c18738da-77e8-4423-b93f-a4d73815c46d)
+
+![Workflow — 8](https://github.com/user-attachments/assets/bf0c427e-9cb5-4720-96f7-5270ab887b43)
 
 ---
 
