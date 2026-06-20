@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="520">
+  <defs>
+    <linearGradient id="g" x1="0" x2="1">
+      <stop offset="0" stop-color="#4f46e5"/>
+      <stop offset="1" stop-color="#06b6d4"/>
+    </linearGradient>
+  </defs>
+  <rect width="100%" height="100%" fill="url(#g)" rx="12"/>
+  <g fill="#fff" font-family="Arial, Helvetica, sans-serif">
+    <text x="50" y="80" font-size="34" font-weight="700">WorkSpace_wissen — Screenshot 1</text>
+    <rect x="50" y="120" width="900" height="320" rx="8" fill="#ffffff22" stroke="#ffffff44"/>
+    <text x="80" y="160" font-size="20">• Centralized snippet list with tags and quick actions</text>
+    <text x="80" y="190" font-size="20">• Fast client-side search and filters</text>
+    <text x="80" y="220" font-size="20">• Add / Edit snippet modal</text>
+  </g>
+</svg>

@@ -38,6 +38,16 @@ It’s optimized for developer productivity: less hunting, faster onboarding, an
 
 ---
 
+## Screenshots
+
+Below are example screenshots. Replace these placeholder images with real screenshots from the app (same paths) to make the README more compelling.
+
+![Main view — snippets list](assets/screenshots/screenshot-1.svg)
+
+![Onboarding checklists](assets/screenshots/screenshot-2.svg)
+
+---
+
 ## Tech stack
 
 - Frontend: Modern JavaScript (ES6+), HTML5, CSS3
